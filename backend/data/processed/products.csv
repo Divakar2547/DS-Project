@@ -1,0 +1,36 @@
+product_id,product_name,category,price_inr
+P001,Wireless Mouse,Electronics,599
+P002,Bluetooth Headphones,Electronics,1499
+P003,USB-C Hub,Electronics,999
+P004,Laptop Stand,Electronics,799
+P005,Wireless Keyboard,Electronics,1199
+P006,Power Bank,Electronics,899
+P007,Smart Watch,Electronics,2499
+P008,Portable Speaker,Electronics,1799
+P009,Cotton T-Shirt,Fashion,499
+P010,Denim Jeans,Fashion,1299
+P011,Running Shoes,Fashion,1999
+P012,Backpack,Fashion,899
+P013,Casual Shirt,Fashion,799
+P014,Sports Jacket,Fashion,1599
+P015,Water Bottle,Home & Kitchen,299
+P016,Coffee Mug,Home & Kitchen,199
+P017,Desk Lamp,Home & Kitchen,699
+P018,Bedsheet Set,Home & Kitchen,999
+P019,Storage Organizer,Home & Kitchen,449
+P020,Non-stick Pan,Home & Kitchen,899
+P021,Yoga Mat,Sports,799
+P022,Dumbbell Set,Sports,1599
+P023,Football,Sports,699
+P024,Skipping Rope,Sports,249
+P025,Mystery Novel,Books,349
+P026,Python Programming Book,Books,599
+P027,Personal Finance Book,Books,499
+P028,Science Fiction Novel,Books,399
+P029,Notebook Pack,Stationery,149
+P030,Ballpoint Pens,Stationery,99
+P031,Highlighter Set,Stationery,129
+P032,Sunscreen SPF 50,Beauty,449
+P033,Face Moisturizer,Beauty,399
+P034,Shampoo,Beauty,299
+P035,Hair Dryer,Beauty,1299

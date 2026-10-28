@@ -1,0 +1,701 @@
+interaction_id,user_id,product_id,rating,product_name,category,price_inr
+I0001,U060,P013,3,Casual Shirt,Fashion,799
+I0002,U071,P028,5,Science Fiction Novel,Books,399
+I0003,U002,P023,4,Football,Sports,699
+I0004,U031,P030,4,Ballpoint Pens,Stationery,99
+I0005,U052,P002,3,Bluetooth Headphones,Electronics,1499
+I0006,U050,P012,5,Backpack,Fashion,899
+I0007,U037,P032,5,Sunscreen SPF 50,Beauty,449
+I0008,U072,P032,3,Sunscreen SPF 50,Beauty,449
+I0009,U038,P017,5,Desk Lamp,Home & Kitchen,699
+I0010,U070,P010,2,Denim Jeans,Fashion,1299
+I0011,U075,P029,5,Notebook Pack,Stationery,149
+I0012,U021,P029,3,Notebook Pack,Stationery,149
+I0013,U024,P006,5,Power Bank,Electronics,899
+I0014,U031,P033,5,Face Moisturizer,Beauty,399
+I0015,U032,P005,5,Wireless Keyboard,Electronics,1199
+I0016,U054,P029,5,Notebook Pack,Stationery,149
+I0017,U034,P019,4,Storage Organizer,Home & Kitchen,449
+I0018,U034,P024,5,Skipping Rope,Sports,249
+I0019,U059,P001,5,Wireless Mouse,Electronics,599
+I0020,U002,P012,5,Backpack,Fashion,899
+I0021,U010,P035,4,Hair Dryer,Beauty,1299
+I0022,U045,P022,4,Dumbbell Set,Sports,1599
+I0023,U037,P034,5,Shampoo,Beauty,299
+I0024,U039,P012,5,Backpack,Fashion,899
+I0025,U002,P013,4,Casual Shirt,Fashion,799
+I0026,U085,P016,3,Coffee Mug,Home & Kitchen,199
+I0027,U015,P024,4,Skipping Rope,Sports,249
+I0028,U035,P027,5,Personal Finance Book,Books,499
+I0029,U027,P021,4,Yoga Mat,Sports,799
+I0030,U063,P003,5,USB-C Hub,Electronics,999
+I0031,U012,P018,4,Bedsheet Set,Home & Kitchen,999
+I0032,U001,P008,5,Portable Speaker,Electronics,1799
+I0033,U034,P020,5,Non-stick Pan,Home & Kitchen,899
+I0034,U055,P020,3,Non-stick Pan,Home & Kitchen,899
+I0035,U089,P030,1,Ballpoint Pens,Stationery,99
+I0036,U048,P005,4,Wireless Keyboard,Electronics,1199
+I0037,U006,P033,5,Face Moisturizer,Beauty,399
+I0038,U006,P027,4,Personal Finance Book,Books,499
+I0039,U086,P009,5,Cotton T-Shirt,Fashion,499
+I0040,U053,P020,2,Non-stick Pan,Home & Kitchen,899
+I0041,U031,P006,4,Power Bank,Electronics,899
+I0042,U053,P008,5,Portable Speaker,Electronics,1799
+I0043,U053,P009,4,Cotton T-Shirt,Fashion,499
+I0044,U032,P012,5,Backpack,Fashion,899
+I0045,U049,P002,3,Bluetooth Headphones,Electronics,1499
+I0046,U026,P003,3,USB-C Hub,Electronics,999
+I0047,U030,P013,4,Casual Shirt,Fashion,799
+I0048,U043,P009,5,Cotton T-Shirt,Fashion,499
+I0049,U036,P016,4,Coffee Mug,Home & Kitchen,199
+I0050,U069,P001,3,Wireless Mouse,Electronics,599
+I0051,U034,P022,2,Dumbbell Set,Sports,1599
+I0052,U077,P003,5,USB-C Hub,Electronics,999
+I0053,U056,P011,3,Running Shoes,Fashion,1999
+I0054,U074,P012,5,Backpack,Fashion,899
+I0055,U001,P001,5,Wireless Mouse,Electronics,599
+I0056,U093,P004,4,Laptop Stand,Electronics,799
+I0057,U047,P027,5,Personal Finance Book,Books,499
+I0058,U043,P012,5,Backpack,Fashion,899
+I0059,U093,P026,3,Python Programming Book,Books,599
+I0060,U053,P005,4,Wireless Keyboard,Electronics,1199
+I0061,U017,P018,5,Bedsheet Set,Home & Kitchen,999
+I0062,U087,P031,5,Highlighter Set,Stationery,129
+I0063,U039,P013,1,Casual Shirt,Fashion,799
+I0064,U075,P033,4,Face Moisturizer,Beauty,399
+I0065,U057,P029,4,Notebook Pack,Stationery,149
+I0066,U095,P032,4,Sunscreen SPF 50,Beauty,449
+I0067,U012,P027,3,Personal Finance Book,Books,499
+I0068,U040,P031,3,Highlighter Set,Stationery,129
+I0069,U006,P005,5,Wireless Keyboard,Electronics,1199
+I0070,U099,P024,5,Skipping Rope,Sports,249
+I0071,U074,P011,4,Running Shoes,Fashion,1999
+I0072,U052,P015,5,Water Bottle,Home & Kitchen,299
+I0073,U097,P001,2,Wireless Mouse,Electronics,599
+I0074,U055,P019,5,Storage Organizer,Home & Kitchen,449
+I0075,U067,P025,4,Mystery Novel,Books,349
+I0076,U016,P006,4,Power Bank,Electronics,899
+I0077,U068,P012,3,Backpack,Fashion,899
+I0078,U097,P007,4,Smart Watch,Electronics,2499
+I0079,U065,P015,5,Water Bottle,Home & Kitchen,299
+I0080,U021,P034,4,Shampoo,Beauty,299
+I0081,U097,P011,4,Running Shoes,Fashion,1999
+I0082,U100,P020,4,Non-stick Pan,Home & Kitchen,899
+I0083,U057,P030,4,Ballpoint Pens,Stationery,99
+I0084,U043,P010,3,Denim Jeans,Fashion,1299
+I0085,U020,P002,3,Bluetooth Headphones,Electronics,1499
+I0086,U028,P021,4,Yoga Mat,Sports,799
+I0087,U054,P027,5,Personal Finance Book,Books,499
+I0088,U090,P007,5,Smart Watch,Electronics,2499
+I0089,U049,P010,4,Denim Jeans,Fashion,1299
+I0090,U097,P012,5,Backpack,Fashion,899
+I0091,U054,P031,5,Highlighter Set,Stationery,129
+I0092,U078,P009,2,Cotton T-Shirt,Fashion,499
+I0093,U056,P012,4,Backpack,Fashion,899
+I0094,U087,P029,3,Notebook Pack,Stationery,149
+I0095,U060,P005,4,Wireless Keyboard,Electronics,1199
+I0096,U051,P021,2,Yoga Mat,Sports,799
+I0097,U083,P008,4,Portable Speaker,Electronics,1799
+I0098,U007,P014,4,Sports Jacket,Fashion,1599
+I0099,U042,P018,4,Bedsheet Set,Home & Kitchen,999
+I0100,U097,P031,3,Highlighter Set,Stationery,129
+I0101,U011,P013,5,Casual Shirt,Fashion,799
+I0102,U100,P002,4,Bluetooth Headphones,Electronics,1499
+I0103,U032,P013,5,Casual Shirt,Fashion,799
+I0104,U031,P035,3,Hair Dryer,Beauty,1299
+I0105,U028,P023,5,Football,Sports,699
+I0106,U022,P015,5,Water Bottle,Home & Kitchen,299
+I0107,U100,P011,2,Running Shoes,Fashion,1999
+I0108,U004,P011,4,Running Shoes,Fashion,1999
+I0109,U049,P011,4,Running Shoes,Fashion,1999
+I0110,U076,P027,4,Personal Finance Book,Books,499
+I0111,U090,P006,5,Power Bank,Electronics,899
+I0112,U016,P008,5,Portable Speaker,Electronics,1799
+I0113,U048,P035,4,Hair Dryer,Beauty,1299
+I0114,U056,P020,5,Non-stick Pan,Home & Kitchen,899
+I0115,U059,P002,3,Bluetooth Headphones,Electronics,1499
+I0116,U067,P011,4,Running Shoes,Fashion,1999
+I0117,U069,P023,4,Football,Sports,699
+I0118,U094,P031,5,Highlighter Set,Stationery,129
+I0119,U012,P013,4,Casual Shirt,Fashion,799
+I0120,U060,P034,4,Shampoo,Beauty,299
+I0121,U004,P029,4,Notebook Pack,Stationery,149
+I0122,U044,P015,5,Water Bottle,Home & Kitchen,299
+I0123,U036,P004,5,Laptop Stand,Electronics,799
+I0124,U011,P010,4,Denim Jeans,Fashion,1299
+I0125,U098,P009,5,Cotton T-Shirt,Fashion,499
+I0126,U063,P020,3,Non-stick Pan,Home & Kitchen,899
+I0127,U029,P009,4,Cotton T-Shirt,Fashion,499
+I0128,U075,P030,5,Ballpoint Pens,Stationery,99
+I0129,U055,P013,3,Casual Shirt,Fashion,799
+I0130,U090,P005,4,Wireless Keyboard,Electronics,1199
+I0131,U016,P001,3,Wireless Mouse,Electronics,599
+I0132,U069,P028,4,Science Fiction Novel,Books,399
+I0133,U028,P024,5,Skipping Rope,Sports,249
+I0134,U098,P010,5,Denim Jeans,Fashion,1299
+I0135,U025,P016,3,Coffee Mug,Home & Kitchen,199
+I0136,U036,P002,5,Bluetooth Headphones,Electronics,1499
+I0137,U090,P015,5,Water Bottle,Home & Kitchen,299
+I0138,U063,P017,5,Desk Lamp,Home & Kitchen,699
+I0139,U061,P018,4,Bedsheet Set,Home & Kitchen,999
+I0140,U062,P025,4,Mystery Novel,Books,349
+I0141,U010,P029,2,Notebook Pack,Stationery,149
+I0142,U020,P005,4,Wireless Keyboard,Electronics,1199
+I0143,U032,P004,4,Laptop Stand,Electronics,799
+I0144,U077,P020,4,Non-stick Pan,Home & Kitchen,899
+I0145,U039,P014,4,Sports Jacket,Fashion,1599
+I0146,U080,P014,3,Sports Jacket,Fashion,1599
+I0147,U098,P011,4,Running Shoes,Fashion,1999
+I0148,U011,P024,5,Skipping Rope,Sports,249
+I0149,U021,P031,5,Highlighter Set,Stationery,129
+I0150,U061,P017,4,Desk Lamp,Home & Kitchen,699
+I0151,U010,P026,4,Python Programming Book,Books,599
+I0152,U081,P001,5,Wireless Mouse,Electronics,599
+I0153,U055,P016,5,Coffee Mug,Home & Kitchen,199
+I0154,U035,P013,2,Casual Shirt,Fashion,799
+I0155,U073,P015,2,Water Bottle,Home & Kitchen,299
+I0156,U089,P034,5,Shampoo,Beauty,299
+I0157,U065,P033,3,Face Moisturizer,Beauty,399
+I0158,U042,P019,3,Storage Organizer,Home & Kitchen,449
+I0159,U087,P010,4,Denim Jeans,Fashion,1299
+I0160,U003,P029,5,Notebook Pack,Stationery,149
+I0161,U023,P030,4,Ballpoint Pens,Stationery,99
+I0162,U036,P020,4,Non-stick Pan,Home & Kitchen,899
+I0163,U063,P013,3,Casual Shirt,Fashion,799
+I0164,U021,P035,4,Hair Dryer,Beauty,1299
+I0165,U085,P034,4,Shampoo,Beauty,299
+I0166,U005,P004,4,Laptop Stand,Electronics,799
+I0167,U066,P024,4,Skipping Rope,Sports,249
+I0168,U070,P011,4,Running Shoes,Fashion,1999
+I0169,U047,P025,5,Mystery Novel,Books,349
+I0170,U098,P012,5,Backpack,Fashion,899
+I0171,U063,P018,5,Bedsheet Set,Home & Kitchen,999
+I0172,U071,P024,3,Skipping Rope,Sports,249
+I0173,U015,P032,5,Sunscreen SPF 50,Beauty,449
+I0174,U020,P003,4,USB-C Hub,Electronics,999
+I0175,U091,P031,4,Highlighter Set,Stationery,129
+I0176,U061,P019,3,Storage Organizer,Home & Kitchen,449
+I0177,U025,P004,5,Laptop Stand,Electronics,799
+I0178,U018,P016,4,Coffee Mug,Home & Kitchen,199
+I0179,U054,P028,5,Science Fiction Novel,Books,399
+I0180,U001,P020,5,Non-stick Pan,Home & Kitchen,899
+I0181,U075,P012,5,Backpack,Fashion,899
+I0182,U058,P012,4,Backpack,Fashion,899
+I0183,U098,P014,5,Sports Jacket,Fashion,1599
+I0184,U025,P021,4,Yoga Mat,Sports,799
+I0185,U030,P018,1,Bedsheet Set,Home & Kitchen,999
+I0186,U096,P019,5,Storage Organizer,Home & Kitchen,449
+I0187,U050,P029,5,Notebook Pack,Stationery,149
+I0188,U020,P027,3,Personal Finance Book,Books,499
+I0189,U076,P024,5,Skipping Rope,Sports,249
+I0190,U059,P017,4,Desk Lamp,Home & Kitchen,699
+I0191,U084,P024,3,Skipping Rope,Sports,249
+I0192,U051,P005,4,Wireless Keyboard,Electronics,1199
+I0193,U087,P025,5,Mystery Novel,Books,349
+I0194,U081,P003,4,USB-C Hub,Electronics,999
+I0195,U070,P014,4,Sports Jacket,Fashion,1599
+I0196,U088,P013,5,Casual Shirt,Fashion,799
+I0197,U056,P003,4,USB-C Hub,Electronics,999
+I0198,U013,P023,4,Football,Sports,699
+I0199,U004,P030,2,Ballpoint Pens,Stationery,99
+I0200,U046,P018,4,Bedsheet Set,Home & Kitchen,999
+I0201,U053,P006,4,Power Bank,Electronics,899
+I0202,U064,P028,3,Science Fiction Novel,Books,399
+I0203,U082,P008,5,Portable Speaker,Electronics,1799
+I0204,U060,P003,4,USB-C Hub,Electronics,999
+I0205,U010,P034,5,Shampoo,Beauty,299
+I0206,U039,P010,5,Denim Jeans,Fashion,1299
+I0207,U059,P012,5,Backpack,Fashion,899
+I0208,U062,P027,5,Personal Finance Book,Books,499
+I0209,U074,P010,4,Denim Jeans,Fashion,1299
+I0210,U073,P027,5,Personal Finance Book,Books,499
+I0211,U007,P023,3,Football,Sports,699
+I0212,U037,P033,5,Face Moisturizer,Beauty,399
+I0213,U046,P016,5,Coffee Mug,Home & Kitchen,199
+I0214,U085,P019,5,Storage Organizer,Home & Kitchen,449
+I0215,U081,P002,5,Bluetooth Headphones,Electronics,1499
+I0216,U005,P002,3,Bluetooth Headphones,Electronics,1499
+I0217,U038,P023,3,Football,Sports,699
+I0218,U017,P013,5,Casual Shirt,Fashion,799
+I0219,U068,P006,5,Power Bank,Electronics,899
+I0220,U033,P030,4,Ballpoint Pens,Stationery,99
+I0221,U038,P021,5,Yoga Mat,Sports,799
+I0222,U060,P032,5,Sunscreen SPF 50,Beauty,449
+I0223,U029,P018,5,Bedsheet Set,Home & Kitchen,999
+I0224,U051,P009,4,Cotton T-Shirt,Fashion,499
+I0225,U012,P023,3,Football,Sports,699
+I0226,U016,P018,5,Bedsheet Set,Home & Kitchen,999
+I0227,U034,P018,5,Bedsheet Set,Home & Kitchen,999
+I0228,U048,P008,4,Portable Speaker,Electronics,1799
+I0229,U080,P030,3,Ballpoint Pens,Stationery,99
+I0230,U079,P025,5,Mystery Novel,Books,349
+I0231,U060,P021,4,Yoga Mat,Sports,799
+I0232,U015,P005,2,Wireless Keyboard,Electronics,1199
+I0233,U064,P035,5,Hair Dryer,Beauty,1299
+I0234,U018,P030,5,Ballpoint Pens,Stationery,99
+I0235,U096,P016,4,Coffee Mug,Home & Kitchen,199
+I0236,U054,P016,4,Coffee Mug,Home & Kitchen,199
+I0237,U053,P035,2,Hair Dryer,Beauty,1299
+I0238,U048,P032,5,Sunscreen SPF 50,Beauty,449
+I0239,U047,P028,4,Science Fiction Novel,Books,399
+I0240,U083,P005,4,Wireless Keyboard,Electronics,1199
+I0241,U016,P012,3,Backpack,Fashion,899
+I0242,U085,P015,5,Water Bottle,Home & Kitchen,299
+I0243,U003,P031,4,Highlighter Set,Stationery,129
+I0244,U017,P034,1,Shampoo,Beauty,299
+I0245,U098,P013,4,Casual Shirt,Fashion,799
+I0246,U077,P006,5,Power Bank,Electronics,899
+I0247,U017,P026,3,Python Programming Book,Books,599
+I0248,U085,P002,1,Bluetooth Headphones,Electronics,1499
+I0249,U031,P034,3,Shampoo,Beauty,299
+I0250,U007,P011,5,Running Shoes,Fashion,1999
+I0251,U096,P015,5,Water Bottle,Home & Kitchen,299
+I0252,U066,P005,5,Wireless Keyboard,Electronics,1199
+I0253,U079,P026,5,Python Programming Book,Books,599
+I0254,U085,P020,5,Non-stick Pan,Home & Kitchen,899
+I0255,U063,P002,3,Bluetooth Headphones,Electronics,1499
+I0256,U011,P023,3,Football,Sports,699
+I0257,U036,P012,5,Backpack,Fashion,899
+I0258,U042,P016,5,Coffee Mug,Home & Kitchen,199
+I0259,U059,P007,3,Smart Watch,Electronics,2499
+I0260,U084,P026,5,Python Programming Book,Books,599
+I0261,U028,P030,4,Ballpoint Pens,Stationery,99
+I0262,U044,P002,3,Bluetooth Headphones,Electronics,1499
+I0263,U013,P021,5,Yoga Mat,Sports,799
+I0264,U048,P019,5,Storage Organizer,Home & Kitchen,449
+I0265,U009,P004,3,Laptop Stand,Electronics,799
+I0266,U013,P015,5,Water Bottle,Home & Kitchen,299
+I0267,U072,P025,5,Mystery Novel,Books,349
+I0268,U086,P023,5,Football,Sports,699
+I0269,U093,P030,5,Ballpoint Pens,Stationery,99
+I0270,U046,P011,4,Running Shoes,Fashion,1999
+I0271,U014,P012,4,Backpack,Fashion,899
+I0272,U055,P006,4,Power Bank,Electronics,899
+I0273,U004,P031,5,Highlighter Set,Stationery,129
+I0274,U090,P001,4,Wireless Mouse,Electronics,599
+I0275,U001,P016,5,Coffee Mug,Home & Kitchen,199
+I0276,U052,P022,5,Dumbbell Set,Sports,1599
+I0277,U044,P019,5,Storage Organizer,Home & Kitchen,449
+I0278,U100,P009,2,Cotton T-Shirt,Fashion,499
+I0279,U080,P013,4,Casual Shirt,Fashion,799
+I0280,U057,P031,5,Highlighter Set,Stationery,129
+I0281,U015,P001,4,Wireless Mouse,Electronics,599
+I0282,U086,P012,4,Backpack,Fashion,899
+I0283,U077,P010,4,Denim Jeans,Fashion,1299
+I0284,U023,P029,5,Notebook Pack,Stationery,149
+I0285,U065,P032,5,Sunscreen SPF 50,Beauty,449
+I0286,U010,P030,2,Ballpoint Pens,Stationery,99
+I0287,U003,P030,5,Ballpoint Pens,Stationery,99
+I0288,U074,P015,5,Water Bottle,Home & Kitchen,299
+I0289,U054,P030,2,Ballpoint Pens,Stationery,99
+I0290,U042,P015,5,Water Bottle,Home & Kitchen,299
+I0291,U089,P028,3,Science Fiction Novel,Books,399
+I0292,U014,P013,4,Casual Shirt,Fashion,799
+I0293,U100,P019,5,Storage Organizer,Home & Kitchen,449
+I0294,U068,P005,5,Wireless Keyboard,Electronics,1199
+I0295,U045,P034,5,Shampoo,Beauty,299
+I0296,U019,P001,4,Wireless Mouse,Electronics,599
+I0297,U099,P033,5,Face Moisturizer,Beauty,399
+I0298,U073,P010,4,Denim Jeans,Fashion,1299
+I0299,U009,P006,4,Power Bank,Electronics,899
+I0300,U036,P008,5,Portable Speaker,Electronics,1799
+I0301,U040,P009,2,Cotton T-Shirt,Fashion,499
+I0302,U012,P019,4,Storage Organizer,Home & Kitchen,449
+I0303,U095,P028,5,Science Fiction Novel,Books,399
+I0304,U078,P008,5,Portable Speaker,Electronics,1799
+I0305,U058,P019,5,Storage Organizer,Home & Kitchen,449
+I0306,U092,P022,3,Dumbbell Set,Sports,1599
+I0307,U032,P003,5,USB-C Hub,Electronics,999
+I0308,U079,P003,5,USB-C Hub,Electronics,999
+I0309,U050,P030,5,Ballpoint Pens,Stationery,99
+I0310,U007,P009,4,Cotton T-Shirt,Fashion,499
+I0311,U050,P023,5,Football,Sports,699
+I0312,U011,P021,5,Yoga Mat,Sports,799
+I0313,U040,P025,4,Mystery Novel,Books,349
+I0314,U017,P028,3,Science Fiction Novel,Books,399
+I0315,U090,P011,5,Running Shoes,Fashion,1999
+I0316,U068,P007,4,Smart Watch,Electronics,2499
+I0317,U047,P026,4,Python Programming Book,Books,599
+I0318,U028,P031,4,Highlighter Set,Stationery,129
+I0319,U029,P030,1,Ballpoint Pens,Stationery,99
+I0320,U013,P031,5,Highlighter Set,Stationery,129
+I0321,U068,P008,5,Portable Speaker,Electronics,1799
+I0322,U020,P001,5,Wireless Mouse,Electronics,599
+I0323,U080,P032,5,Sunscreen SPF 50,Beauty,449
+I0324,U006,P006,5,Power Bank,Electronics,899
+I0325,U096,P018,5,Bedsheet Set,Home & Kitchen,999
+I0326,U040,P012,4,Backpack,Fashion,899
+I0327,U025,P007,5,Smart Watch,Electronics,2499
+I0328,U100,P017,4,Desk Lamp,Home & Kitchen,699
+I0329,U021,P025,4,Mystery Novel,Books,349
+I0330,U033,P010,5,Denim Jeans,Fashion,1299
+I0331,U071,P015,5,Water Bottle,Home & Kitchen,299
+I0332,U016,P017,3,Desk Lamp,Home & Kitchen,699
+I0333,U058,P032,5,Sunscreen SPF 50,Beauty,449
+I0334,U012,P030,4,Ballpoint Pens,Stationery,99
+I0335,U045,P023,2,Football,Sports,699
+I0336,U065,P019,5,Storage Organizer,Home & Kitchen,449
+I0337,U048,P006,5,Power Bank,Electronics,899
+I0338,U092,P015,3,Water Bottle,Home & Kitchen,299
+I0339,U005,P025,4,Mystery Novel,Books,349
+I0340,U018,P029,4,Notebook Pack,Stationery,149
+I0341,U033,P009,5,Cotton T-Shirt,Fashion,499
+I0342,U094,P030,3,Ballpoint Pens,Stationery,99
+I0343,U037,P035,2,Hair Dryer,Beauty,1299
+I0344,U054,P026,4,Python Programming Book,Books,599
+I0345,U077,P002,5,Bluetooth Headphones,Electronics,1499
+I0346,U031,P029,4,Notebook Pack,Stationery,149
+I0347,U009,P022,3,Dumbbell Set,Sports,1599
+I0348,U065,P016,5,Coffee Mug,Home & Kitchen,199
+I0349,U006,P003,4,USB-C Hub,Electronics,999
+I0350,U045,P028,5,Science Fiction Novel,Books,399
+I0351,U099,P011,4,Running Shoes,Fashion,1999
+I0352,U006,P007,5,Smart Watch,Electronics,2499
+I0353,U023,P016,3,Coffee Mug,Home & Kitchen,199
+I0354,U059,P030,2,Ballpoint Pens,Stationery,99
+I0355,U026,P014,5,Sports Jacket,Fashion,1599
+I0356,U097,P010,4,Denim Jeans,Fashion,1299
+I0357,U044,P030,4,Ballpoint Pens,Stationery,99
+I0358,U035,P007,3,Smart Watch,Electronics,2499
+I0359,U056,P023,4,Football,Sports,699
+I0360,U038,P020,4,Non-stick Pan,Home & Kitchen,899
+I0361,U038,P016,5,Coffee Mug,Home & Kitchen,199
+I0362,U022,P034,4,Shampoo,Beauty,299
+I0363,U094,P011,4,Running Shoes,Fashion,1999
+I0364,U056,P021,5,Yoga Mat,Sports,799
+I0365,U010,P025,4,Mystery Novel,Books,349
+I0366,U096,P029,2,Notebook Pack,Stationery,149
+I0367,U078,P002,2,Bluetooth Headphones,Electronics,1499
+I0368,U009,P011,4,Running Shoes,Fashion,1999
+I0369,U050,P014,5,Sports Jacket,Fashion,1599
+I0370,U048,P002,5,Bluetooth Headphones,Electronics,1499
+I0371,U068,P002,5,Bluetooth Headphones,Electronics,1499
+I0372,U032,P030,4,Ballpoint Pens,Stationery,99
+I0373,U064,P003,5,USB-C Hub,Electronics,999
+I0374,U058,P028,4,Science Fiction Novel,Books,399
+I0375,U063,P004,5,Laptop Stand,Electronics,799
+I0376,U058,P010,4,Denim Jeans,Fashion,1299
+I0377,U012,P009,5,Cotton T-Shirt,Fashion,499
+I0378,U086,P025,5,Mystery Novel,Books,349
+I0379,U038,P019,3,Storage Organizer,Home & Kitchen,449
+I0380,U091,P021,2,Yoga Mat,Sports,799
+I0381,U026,P008,4,Portable Speaker,Electronics,1799
+I0382,U017,P020,3,Non-stick Pan,Home & Kitchen,899
+I0383,U051,P013,3,Casual Shirt,Fashion,799
+I0384,U053,P031,5,Highlighter Set,Stationery,129
+I0385,U017,P002,1,Bluetooth Headphones,Electronics,1499
+I0386,U060,P011,3,Running Shoes,Fashion,1999
+I0387,U100,P018,4,Bedsheet Set,Home & Kitchen,999
+I0388,U008,P014,2,Sports Jacket,Fashion,1599
+I0389,U022,P026,5,Python Programming Book,Books,599
+I0390,U045,P033,5,Face Moisturizer,Beauty,399
+I0391,U011,P009,5,Cotton T-Shirt,Fashion,499
+I0392,U036,P003,5,USB-C Hub,Electronics,999
+I0393,U076,P020,2,Non-stick Pan,Home & Kitchen,899
+I0394,U044,P003,1,USB-C Hub,Electronics,999
+I0395,U083,P001,5,Wireless Mouse,Electronics,599
+I0396,U099,P013,5,Casual Shirt,Fashion,799
+I0397,U064,P025,3,Mystery Novel,Books,349
+I0398,U039,P009,5,Cotton T-Shirt,Fashion,499
+I0399,U052,P028,5,Science Fiction Novel,Books,399
+I0400,U021,P032,4,Sunscreen SPF 50,Beauty,449
+I0401,U044,P027,5,Personal Finance Book,Books,499
+I0402,U041,P035,4,Hair Dryer,Beauty,1299
+I0403,U052,P016,5,Coffee Mug,Home & Kitchen,199
+I0404,U014,P009,3,Cotton T-Shirt,Fashion,499
+I0405,U058,P025,2,Mystery Novel,Books,349
+I0406,U050,P032,3,Sunscreen SPF 50,Beauty,449
+I0407,U074,P016,5,Coffee Mug,Home & Kitchen,199
+I0408,U064,P008,4,Portable Speaker,Electronics,1799
+I0409,U040,P014,5,Sports Jacket,Fashion,1599
+I0410,U084,P027,5,Personal Finance Book,Books,499
+I0411,U034,P016,4,Coffee Mug,Home & Kitchen,199
+I0412,U072,P027,4,Personal Finance Book,Books,499
+I0413,U050,P022,5,Dumbbell Set,Sports,1599
+I0414,U080,P026,3,Python Programming Book,Books,599
+I0415,U013,P016,5,Coffee Mug,Home & Kitchen,199
+I0416,U072,P028,3,Science Fiction Novel,Books,399
+I0417,U078,P005,2,Wireless Keyboard,Electronics,1199
+I0418,U005,P005,5,Wireless Keyboard,Electronics,1199
+I0419,U067,P028,5,Science Fiction Novel,Books,399
+I0420,U041,P029,5,Notebook Pack,Stationery,149
+I0421,U073,P012,1,Backpack,Fashion,899
+I0422,U043,P011,5,Running Shoes,Fashion,1999
+I0423,U093,P032,1,Sunscreen SPF 50,Beauty,449
+I0424,U093,P022,3,Dumbbell Set,Sports,1599
+I0425,U032,P008,5,Portable Speaker,Electronics,1799
+I0426,U025,P013,4,Casual Shirt,Fashion,799
+I0427,U065,P035,4,Hair Dryer,Beauty,1299
+I0428,U095,P031,3,Highlighter Set,Stationery,129
+I0429,U027,P022,4,Dumbbell Set,Sports,1599
+I0430,U049,P014,4,Sports Jacket,Fashion,1599
+I0431,U088,P012,4,Backpack,Fashion,899
+I0432,U036,P011,5,Running Shoes,Fashion,1999
+I0433,U041,P030,5,Ballpoint Pens,Stationery,99
+I0434,U093,P031,5,Highlighter Set,Stationery,129
+I0435,U070,P009,5,Cotton T-Shirt,Fashion,499
+I0436,U099,P021,2,Yoga Mat,Sports,799
+I0437,U092,P020,4,Non-stick Pan,Home & Kitchen,899
+I0438,U033,P029,4,Notebook Pack,Stationery,149
+I0439,U069,P007,5,Smart Watch,Electronics,2499
+I0440,U076,P021,5,Yoga Mat,Sports,799
+I0441,U068,P001,2,Wireless Mouse,Electronics,599
+I0442,U013,P024,1,Skipping Rope,Sports,249
+I0443,U071,P017,3,Desk Lamp,Home & Kitchen,699
+I0444,U097,P017,3,Desk Lamp,Home & Kitchen,699
+I0445,U008,P001,4,Wireless Mouse,Electronics,599
+I0446,U030,P011,5,Running Shoes,Fashion,1999
+I0447,U005,P028,4,Science Fiction Novel,Books,399
+I0448,U023,P026,5,Python Programming Book,Books,599
+I0449,U051,P028,5,Science Fiction Novel,Books,399
+I0450,U038,P008,3,Portable Speaker,Electronics,1799
+I0451,U078,P003,4,USB-C Hub,Electronics,999
+I0452,U018,P018,3,Bedsheet Set,Home & Kitchen,999
+I0453,U059,P006,4,Power Bank,Electronics,899
+I0454,U095,P033,5,Face Moisturizer,Beauty,399
+I0455,U082,P024,3,Skipping Rope,Sports,249
+I0456,U001,P003,4,USB-C Hub,Electronics,999
+I0457,U035,P026,5,Python Programming Book,Books,599
+I0458,U086,P022,3,Dumbbell Set,Sports,1599
+I0459,U088,P011,5,Running Shoes,Fashion,1999
+I0460,U082,P002,4,Bluetooth Headphones,Electronics,1499
+I0461,U029,P016,4,Coffee Mug,Home & Kitchen,199
+I0462,U048,P033,5,Face Moisturizer,Beauty,399
+I0463,U097,P014,5,Sports Jacket,Fashion,1599
+I0464,U015,P008,5,Portable Speaker,Electronics,1799
+I0465,U026,P033,3,Face Moisturizer,Beauty,399
+I0466,U012,P035,4,Hair Dryer,Beauty,1299
+I0467,U059,P019,4,Storage Organizer,Home & Kitchen,449
+I0468,U008,P027,5,Personal Finance Book,Books,499
+I0469,U093,P024,5,Skipping Rope,Sports,249
+I0470,U006,P002,3,Bluetooth Headphones,Electronics,1499
+I0471,U008,P004,5,Laptop Stand,Electronics,799
+I0472,U061,P015,3,Water Bottle,Home & Kitchen,299
+I0473,U018,P031,5,Highlighter Set,Stationery,129
+I0474,U054,P019,4,Storage Organizer,Home & Kitchen,449
+I0475,U049,P013,5,Casual Shirt,Fashion,799
+I0476,U051,P006,5,Power Bank,Electronics,899
+I0477,U001,P033,4,Face Moisturizer,Beauty,399
+I0478,U049,P020,3,Non-stick Pan,Home & Kitchen,899
+I0479,U077,P004,2,Laptop Stand,Electronics,799
+I0480,U095,P003,4,USB-C Hub,Electronics,999
+I0481,U028,P029,2,Notebook Pack,Stationery,149
+I0482,U065,P034,5,Shampoo,Beauty,299
+I0483,U077,P011,4,Running Shoes,Fashion,1999
+I0484,U067,P027,4,Personal Finance Book,Books,499
+I0485,U072,P017,4,Desk Lamp,Home & Kitchen,699
+I0486,U083,P002,5,Bluetooth Headphones,Electronics,1499
+I0487,U090,P003,4,USB-C Hub,Electronics,999
+I0488,U024,P003,4,USB-C Hub,Electronics,999
+I0489,U029,P017,3,Desk Lamp,Home & Kitchen,699
+I0490,U060,P022,3,Dumbbell Set,Sports,1599
+I0491,U054,P025,4,Mystery Novel,Books,349
+I0492,U011,P019,3,Storage Organizer,Home & Kitchen,449
+I0493,U069,P027,2,Personal Finance Book,Books,499
+I0494,U006,P009,4,Cotton T-Shirt,Fashion,499
+I0495,U002,P010,5,Denim Jeans,Fashion,1299
+I0496,U016,P004,4,Laptop Stand,Electronics,799
+I0497,U032,P011,4,Running Shoes,Fashion,1999
+I0498,U084,P002,4,Bluetooth Headphones,Electronics,1499
+I0499,U041,P003,3,USB-C Hub,Electronics,999
+I0500,U095,P029,5,Notebook Pack,Stationery,149
+I0501,U075,P034,4,Shampoo,Beauty,299
+I0502,U026,P034,5,Shampoo,Beauty,299
+I0503,U032,P001,5,Wireless Mouse,Electronics,599
+I0504,U044,P018,4,Bedsheet Set,Home & Kitchen,999
+I0505,U059,P005,4,Wireless Keyboard,Electronics,1199
+I0506,U024,P030,5,Ballpoint Pens,Stationery,99
+I0507,U008,P028,5,Science Fiction Novel,Books,399
+I0508,U086,P027,4,Personal Finance Book,Books,499
+I0509,U059,P031,5,Highlighter Set,Stationery,129
+I0510,U079,P018,3,Bedsheet Set,Home & Kitchen,999
+I0511,U001,P017,1,Desk Lamp,Home & Kitchen,699
+I0512,U080,P009,4,Cotton T-Shirt,Fashion,499
+I0513,U051,P002,4,Bluetooth Headphones,Electronics,1499
+I0514,U032,P029,3,Notebook Pack,Stationery,149
+I0515,U011,P022,5,Dumbbell Set,Sports,1599
+I0516,U005,P033,4,Face Moisturizer,Beauty,399
+I0517,U061,P020,5,Non-stick Pan,Home & Kitchen,899
+I0518,U011,P014,5,Sports Jacket,Fashion,1599
+I0519,U043,P013,5,Casual Shirt,Fashion,799
+I0520,U068,P017,2,Desk Lamp,Home & Kitchen,699
+I0521,U089,P026,3,Python Programming Book,Books,599
+I0522,U070,P013,3,Casual Shirt,Fashion,799
+I0523,U041,P032,5,Sunscreen SPF 50,Beauty,449
+I0524,U097,P035,3,Hair Dryer,Beauty,1299
+I0525,U010,P031,4,Highlighter Set,Stationery,129
+I0526,U050,P013,4,Casual Shirt,Fashion,799
+I0527,U089,P035,5,Hair Dryer,Beauty,1299
+I0528,U045,P025,4,Mystery Novel,Books,349
+I0529,U079,P035,5,Hair Dryer,Beauty,1299
+I0530,U042,P017,5,Desk Lamp,Home & Kitchen,699
+I0531,U058,P016,5,Coffee Mug,Home & Kitchen,199
+I0532,U032,P025,4,Mystery Novel,Books,349
+I0533,U049,P012,3,Backpack,Fashion,899
+I0534,U012,P015,4,Water Bottle,Home & Kitchen,299
+I0535,U012,P003,5,USB-C Hub,Electronics,999
+I0536,U066,P007,3,Smart Watch,Electronics,2499
+I0537,U042,P032,3,Sunscreen SPF 50,Beauty,449
+I0538,U072,P012,4,Backpack,Fashion,899
+I0539,U064,P033,4,Face Moisturizer,Beauty,399
+I0540,U054,P020,3,Non-stick Pan,Home & Kitchen,899
+I0541,U039,P011,4,Running Shoes,Fashion,1999
+I0542,U043,P014,5,Sports Jacket,Fashion,1599
+I0543,U084,P035,3,Hair Dryer,Beauty,1299
+I0544,U078,P017,3,Desk Lamp,Home & Kitchen,699
+I0545,U023,P024,3,Skipping Rope,Sports,249
+I0546,U089,P021,5,Yoga Mat,Sports,799
+I0547,U004,P016,5,Coffee Mug,Home & Kitchen,199
+I0548,U027,P024,5,Skipping Rope,Sports,249
+I0549,U009,P015,4,Water Bottle,Home & Kitchen,299
+I0550,U087,P030,4,Ballpoint Pens,Stationery,99
+I0551,U055,P011,3,Running Shoes,Fashion,1999
+I0552,U069,P026,3,Python Programming Book,Books,599
+I0553,U046,P009,2,Cotton T-Shirt,Fashion,499
+I0554,U056,P024,4,Skipping Rope,Sports,249
+I0555,U066,P003,5,USB-C Hub,Electronics,999
+I0556,U074,P020,4,Non-stick Pan,Home & Kitchen,899
+I0557,U062,P028,5,Science Fiction Novel,Books,399
+I0558,U044,P026,5,Python Programming Book,Books,599
+I0559,U045,P027,5,Personal Finance Book,Books,499
+I0560,U058,P018,2,Bedsheet Set,Home & Kitchen,999
+I0561,U091,P030,4,Ballpoint Pens,Stationery,99
+I0562,U071,P013,4,Casual Shirt,Fashion,799
+I0563,U060,P033,5,Face Moisturizer,Beauty,399
+I0564,U024,P008,4,Portable Speaker,Electronics,1799
+I0565,U058,P020,1,Non-stick Pan,Home & Kitchen,899
+I0566,U091,P023,4,Football,Sports,699
+I0567,U086,P033,5,Face Moisturizer,Beauty,399
+I0568,U041,P024,4,Skipping Rope,Sports,249
+I0569,U059,P018,5,Bedsheet Set,Home & Kitchen,999
+I0570,U039,P005,2,Wireless Keyboard,Electronics,1199
+I0571,U082,P031,5,Highlighter Set,Stationery,129
+I0572,U058,P009,4,Cotton T-Shirt,Fashion,499
+I0573,U002,P011,5,Running Shoes,Fashion,1999
+I0574,U053,P029,5,Notebook Pack,Stationery,149
+I0575,U099,P035,5,Hair Dryer,Beauty,1299
+I0576,U074,P031,5,Highlighter Set,Stationery,129
+I0577,U006,P034,5,Shampoo,Beauty,299
+I0578,U055,P017,5,Desk Lamp,Home & Kitchen,699
+I0579,U058,P027,5,Personal Finance Book,Books,499
+I0580,U057,P001,4,Wireless Mouse,Electronics,599
+I0581,U076,P025,5,Mystery Novel,Books,349
+I0582,U081,P004,3,Laptop Stand,Electronics,799
+I0583,U027,P015,1,Water Bottle,Home & Kitchen,299
+I0584,U038,P018,5,Bedsheet Set,Home & Kitchen,999
+I0585,U066,P017,4,Desk Lamp,Home & Kitchen,699
+I0586,U084,P007,3,Smart Watch,Electronics,2499
+I0587,U019,P003,4,USB-C Hub,Electronics,999
+I0588,U054,P018,5,Bedsheet Set,Home & Kitchen,999
+I0589,U096,P017,5,Desk Lamp,Home & Kitchen,699
+I0590,U075,P035,5,Hair Dryer,Beauty,1299
+I0591,U012,P008,5,Portable Speaker,Electronics,1799
+I0592,U069,P025,5,Mystery Novel,Books,349
+I0593,U064,P001,4,Wireless Mouse,Electronics,599
+I0594,U071,P009,5,Cotton T-Shirt,Fashion,499
+I0595,U044,P033,2,Face Moisturizer,Beauty,399
+I0596,U013,P018,4,Bedsheet Set,Home & Kitchen,999
+I0597,U026,P023,2,Football,Sports,699
+I0598,U084,P005,5,Wireless Keyboard,Electronics,1199
+I0599,U036,P006,4,Power Bank,Electronics,899
+I0600,U048,P004,3,Laptop Stand,Electronics,799
+I0601,U001,P007,3,Smart Watch,Electronics,2499
+I0602,U016,P010,4,Denim Jeans,Fashion,1299
+I0603,U012,P006,3,Power Bank,Electronics,899
+I0604,U048,P030,3,Ballpoint Pens,Stationery,99
+I0605,U097,P032,5,Sunscreen SPF 50,Beauty,449
+I0606,U019,P025,1,Mystery Novel,Books,349
+I0607,U093,P029,3,Notebook Pack,Stationery,149
+I0608,U041,P006,3,Power Bank,Electronics,899
+I0609,U077,P007,5,Smart Watch,Electronics,2499
+I0610,U085,P009,3,Cotton T-Shirt,Fashion,499
+I0611,U047,P022,3,Dumbbell Set,Sports,1599
+I0612,U073,P013,5,Casual Shirt,Fashion,799
+I0613,U010,P027,1,Personal Finance Book,Books,499
+I0614,U051,P022,5,Dumbbell Set,Sports,1599
+I0615,U052,P020,5,Non-stick Pan,Home & Kitchen,899
+I0616,U020,P006,3,Power Bank,Electronics,899
+I0617,U027,P035,4,Hair Dryer,Beauty,1299
+I0618,U051,P004,5,Laptop Stand,Electronics,799
+I0619,U088,P022,5,Dumbbell Set,Sports,1599
+I0620,U094,P006,1,Power Bank,Electronics,899
+I0621,U059,P020,4,Non-stick Pan,Home & Kitchen,899
+I0622,U095,P007,3,Smart Watch,Electronics,2499
+I0623,U021,P030,5,Ballpoint Pens,Stationery,99
+I0624,U035,P031,5,Highlighter Set,Stationery,129
+I0625,U035,P009,5,Cotton T-Shirt,Fashion,499
+I0626,U074,P014,4,Sports Jacket,Fashion,1599
+I0627,U073,P014,4,Sports Jacket,Fashion,1599
+I0628,U014,P022,4,Dumbbell Set,Sports,1599
+I0629,U006,P031,3,Highlighter Set,Stationery,129
+I0630,U020,P028,2,Science Fiction Novel,Books,399
+I0631,U092,P021,4,Yoga Mat,Sports,799
+I0632,U032,P002,4,Bluetooth Headphones,Electronics,1499
+I0633,U010,P033,5,Face Moisturizer,Beauty,399
+I0634,U007,P012,5,Backpack,Fashion,899
+I0635,U006,P012,5,Backpack,Fashion,899
+I0636,U002,P014,5,Sports Jacket,Fashion,1599
+I0637,U060,P025,5,Mystery Novel,Books,349
+I0638,U082,P023,1,Football,Sports,699
+I0639,U040,P010,5,Denim Jeans,Fashion,1299
+I0640,U019,P027,2,Personal Finance Book,Books,499
+I0641,U030,P009,4,Cotton T-Shirt,Fashion,499
+I0642,U048,P001,3,Wireless Mouse,Electronics,599
+I0643,U041,P023,5,Football,Sports,699
+I0644,U095,P005,4,Wireless Keyboard,Electronics,1199
+I0645,U010,P006,4,Power Bank,Electronics,899
+I0646,U075,P031,3,Highlighter Set,Stationery,129
+I0647,U069,P006,4,Power Bank,Electronics,899
+I0648,U040,P013,3,Casual Shirt,Fashion,799
+I0649,U021,P006,5,Power Bank,Electronics,899
+I0650,U090,P004,5,Laptop Stand,Electronics,799
+I0651,U042,P020,4,Non-stick Pan,Home & Kitchen,899
+I0652,U023,P031,5,Highlighter Set,Stationery,129
+I0653,U013,P019,5,Storage Organizer,Home & Kitchen,449
+I0654,U016,P002,5,Bluetooth Headphones,Electronics,1499
+I0655,U029,P019,4,Storage Organizer,Home & Kitchen,449
+I0656,U088,P023,3,Football,Sports,699
+I0657,U076,P026,3,Python Programming Book,Books,599
+I0658,U009,P026,4,Python Programming Book,Books,599
+I0659,U074,P013,4,Casual Shirt,Fashion,799
+I0660,U020,P026,5,Python Programming Book,Books,599
+I0661,U071,P023,4,Football,Sports,699
+I0662,U070,P023,4,Football,Sports,699
+I0663,U046,P010,4,Denim Jeans,Fashion,1299
+I0664,U035,P011,5,Running Shoes,Fashion,1999
+I0665,U004,P014,3,Sports Jacket,Fashion,1599
+I0666,U075,P014,2,Sports Jacket,Fashion,1599
+I0667,U041,P028,3,Science Fiction Novel,Books,399
+I0668,U064,P002,4,Bluetooth Headphones,Electronics,1499
+I0669,U029,P011,1,Running Shoes,Fashion,1999
+I0670,U076,P022,5,Dumbbell Set,Sports,1599
+I0671,U048,P003,4,USB-C Hub,Electronics,999
+I0672,U018,P005,5,Wireless Keyboard,Electronics,1199
+I0673,U041,P022,5,Dumbbell Set,Sports,1599
+I0674,U079,P022,4,Dumbbell Set,Sports,1599
+I0675,U089,P023,5,Football,Sports,699
+I0676,U090,P033,5,Face Moisturizer,Beauty,399
+I0677,U099,P004,2,Laptop Stand,Electronics,799
+I0678,U041,P010,3,Denim Jeans,Fashion,1299
+I0679,U073,P009,3,Cotton T-Shirt,Fashion,499
+I0680,U082,P030,4,Ballpoint Pens,Stationery,99
+I0681,U022,P018,5,Bedsheet Set,Home & Kitchen,999
+I0682,U045,P032,5,Sunscreen SPF 50,Beauty,449
+I0683,U029,P015,5,Water Bottle,Home & Kitchen,299
+I0684,U005,P006,4,Power Bank,Electronics,899
+I0685,U071,P035,3,Hair Dryer,Beauty,1299
+I0686,U079,P012,1,Backpack,Fashion,899
+I0687,U084,P003,4,USB-C Hub,Electronics,999
+I0688,U007,P010,5,Denim Jeans,Fashion,1299
+I0689,U053,P007,5,Smart Watch,Electronics,2499
+I0690,U063,P016,1,Coffee Mug,Home & Kitchen,199
+I0691,U012,P011,5,Running Shoes,Fashion,1999
+I0692,U027,P023,5,Football,Sports,699
+I0693,U061,P012,4,Backpack,Fashion,899
+I0694,U034,P023,5,Football,Sports,699
+I0695,U020,P004,3,Laptop Stand,Electronics,799
+I0696,U086,P028,4,Science Fiction Novel,Books,399
+I0697,U008,P032,4,Sunscreen SPF 50,Beauty,449
+I0698,U069,P003,4,USB-C Hub,Electronics,999
+I0699,U051,P019,1,Storage Organizer,Home & Kitchen,449
+I0700,U074,P001,4,Wireless Mouse,Electronics,599

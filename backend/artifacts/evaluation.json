@@ -1,0 +1,65 @@
+{
+  "data_quality": {
+    "source_file": "C:\\Users\\Hari priya\\Downloads\\DS-Project\\product_recommendation_dataset_700.csv",
+    "input_rows": 700,
+    "columns": [
+      "interaction_id",
+      "user_id",
+      "product_id",
+      "rating",
+      "product_name",
+      "category",
+      "price_inr"
+    ],
+    "input_dtypes": {
+      "interaction_id": "object",
+      "user_id": "object",
+      "product_id": "object",
+      "rating": "int64",
+      "product_name": "object",
+      "category": "object",
+      "price_inr": "int64"
+    },
+    "missing_values_by_column": {
+      "interaction_id": 0,
+      "user_id": 0,
+      "product_id": 0,
+      "rating": 0,
+      "product_name": 0,
+      "category": 0,
+      "price_inr": 0
+    },
+    "exact_duplicate_rows": 0,
+    "invalid_interaction_rows_dropped": 0,
+    "clean_rows": 700,
+    "clean_dtypes": {
+      "interaction_id": "object",
+      "user_id": "object",
+      "product_id": "object",
+      "rating": "int64",
+      "product_name": "object",
+      "category": "object",
+      "price_inr": "int64"
+    },
+    "duplicate_user_product_pairs": 0,
+    "user_count": 100,
+    "product_count": 35,
+    "rating_distribution": {
+      "1": 22,
+      "2": 42,
+      "3": 118,
+      "4": 228,
+      "5": 290
+    }
+  },
+  "evaluation": {
+    "protocol": "One seeded random interaction held out per user (users with at least 3 records); training-only similarities/popularity; held-out ratings >= 4 count as relevant.",
+    "random_seed": 42,
+    "k": 5,
+    "heldout_interactions": 100,
+    "relevant_heldout_users": 74,
+    "precision_at_5": 0.013514,
+    "recall_at_5": 0.067568,
+    "hits": 5
+  }
+}
